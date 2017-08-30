@@ -1,1 +1,1 @@
-"""The Jacquard Analysis Framework"""
+"""The Jacquard Analysis Framework."""
